@@ -1,0 +1,9 @@
+name: 522-docker
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - pandas
+  - python>=3.11
+  - ipykernel
+  - altair-all
