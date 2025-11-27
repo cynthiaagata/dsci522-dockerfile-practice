@@ -4,6 +4,7 @@ channels:
   - conda-forge
 dependencies:
   - pandas
-  - python>=3.11
+  - conda-lock=>3.0.4
+  - python=3.11
   - ipykernel
   - altair-all
